@@ -5,6 +5,22 @@
 
 ### README content
 
+<!-- vim-markdown-toc GFM -->
+
+* [Repository content](#repository-content)
+* [Requirements](#requirements)
+* [Setup](#setup)
+    * [Makefile targets](#makefile-targets)
+    * [Step-by-step instructions](#step-by-step-instructions)
+    * [GIFs](#gifs)
+    * [Windows](#windows)
+* [Course preparation](#course-preparation)
+* [Lecture notebooks](#lecture-notebooks)
+* [Module 2](#module-2)
+* [Module 3](#module-3)
+
+<!-- vim-markdown-toc -->
+
 
 ### Repository content
 
