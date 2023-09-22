@@ -16,10 +16,10 @@ plotly
 pyarrow
 scipy
 seaborn
-sklearn
+scikit-learn
 statsmodels
 tensorboard
-tensorflow-cpu
+tensorflow
 torch
 tqdm
 PyYAML

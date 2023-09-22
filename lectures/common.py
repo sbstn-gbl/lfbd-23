@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import yaml
 
 
-plt.style.use("seaborn-white")
+plt.style.use("seaborn-v0_8-white")
 
 plt.rcParams.update(
     {
